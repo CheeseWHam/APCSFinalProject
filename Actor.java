@@ -16,11 +16,8 @@
  * @author Cay Horstmann
  */
 
- 
-
 import info.gridworld.grid.Grid;
 import info.gridworld.grid.Location;
-
 import java.awt.Color;
 
 /**
